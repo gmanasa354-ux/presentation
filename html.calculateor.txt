@@ -1,0 +1,68 @@
+<html>
+
+<head.CLACULATOR>
+
+back ground-colour:orange;
+
+border:0%
+
+width:100%
+
+<style>
+}
+<tabel>
+
+<div algin: "center">
+
+<body:"calculatore>
+
+</style>
+
+<td>
+<td colospon ="4"="get"value =</td>
+
+<tr>
+<td><input value="button"onclick=+='1'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='2'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='3'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='+'"=calculate.get.value></td>
+</tr>
+
+<tr>
+<td><input value="button"onclick=+='4'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='5"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='6'"=calculate.get.value></td>
+
+<td><input value="button"oncick=+='-'"=calculate.get.value></td>
+</tr>
+
+<tr>
+<td><input value="button"onclick=+='7'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='8'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='9'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='*'"=calculate.get.value></td>
+</tr>
+
+<tr>
+<td><input value="button"onclick=+='0'"=calculate.get.value></td>
+
+<td><input value="button"onclick=+='='"calculate.get.value></td>
+
+<td><input value="button"onclick=+='/'"calculate.get.value></td>
+</tr>
+
+</tabel>
+</form>
+</body>
+</td>
+</tr>
+
+</html>
